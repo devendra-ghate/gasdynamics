@@ -19,14 +19,17 @@ Video | Slides |
 [8](https://youtu.be/oYAZK-n75Ps)|[pdf](./lectureSlides/L8.pdf) |
 [9](https://youtu.be/HuFvBkJI_Js)|[pdf](./lectureSlides/L9.pdf) |
 [10](https://youtu.be/ZFdirwfh9eA)|[pdf](./lectureSlides/L10.pdf) |
-[11](https://youtu.be/VXYv_0wU05M)|[pdf](./lectureSlides/L11.pdf) |
+[11](https://youtu.be/VXYv_0wU05M)|[pdf-1](./lectureSlides/L11.pdf) [pdf-2](./lectureSlides/L11a.pdf)|
 [12](https://youtu.be/et1hyF7MSEM)|[pdf](./lectureSlides/L12.pdf) |
 [13](https://youtu.be/1iCjqXb2Mdc)|[pdf](./lectureSlides/L13.pdf) |
+[14](https://youtu.be/Mo-gZJ2-HdI)|[pdf](./lectureSlides/L14.pdf) |
+[15](https://youtu.be/5i6_cbh5iEE)| No Slides |
 
 ## Other Material
 
 - [Gas Constant](./extra/gasConstant.html)
 - [Normal shock relations](./extra/normalShock.html) (Original Pluto notebook is [here](./extra/normalShock.jl))
+- [Moving Normal Shock](./extra/movingNormalShock.html) (Original Pluto notebook is [here](./extra/movingNormalShock.jl))
 
 ## Tutorials
 
