@@ -24,6 +24,8 @@ Video | Slides |
 [13](https://youtu.be/1iCjqXb2Mdc)|[pdf](./lectureSlides/L13.pdf) |
 [14](https://youtu.be/Mo-gZJ2-HdI)|[pdf](./lectureSlides/L14.pdf) |
 [15](https://youtu.be/5i6_cbh5iEE)| No Slides |
+[16](https://youtu.be/0WVk6EVc_Os)| [pdf](./lectureSlides/L16.pdf) |
+[17](https://youtu.be/nIuCVgpDsVU)| [pdf](./lectureSlides/L17.pdf) |
 
 ## Other Material
 
