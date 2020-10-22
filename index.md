@@ -26,12 +26,17 @@ Video | Slides |
 [15](https://youtu.be/5i6_cbh5iEE)| No Slides |
 [16](https://youtu.be/0WVk6EVc_Os)| [pdf](./lectureSlides/L16.pdf) |
 [17](https://youtu.be/nIuCVgpDsVU)| [pdf](./lectureSlides/L17.pdf) |
+[18](https://youtu.be/pmhkCeangY8)| [pdf](./lectureSlides/L18.pdf) |
+[19](https://youtu.be/H_00_C1HEAA)| [pdf](./lectureSlides/L19.pdf) |
+[20](https://youtu.be/fTdopObwTy4)| [pdf](./lectureSlides/L20.pdf) |
+[21](https://youtu.be/zySPVTOMnyw)| [pdf](./lectureSlides/L21.pdf) |
 
 ## Other Material
 
 - [Gas Constant](./extra/gasConstant.html)
 - [Normal shock relations](./extra/normalShock.html) (Original Pluto notebook is [here](./extra/normalShock.jl))
 - [Moving Normal Shock](./extra/movingNormalShock.html) (Original Pluto notebook is [here](./extra/movingNormalShock.jl))
+- [Gas Tables](http://www.tfd.chalmers.se/~nian/courses/compflow/docs/Formulas%20Tables%20and%20Graphs.pdf) Source: Prof. Niklas Andersson, Chalmers University
 
 ## Tutorials
 
