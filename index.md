@@ -48,6 +48,8 @@ Video | Slides |
    - [Problem 2 Sol](extra/tut1-2.html)
    - [Problem 3 Sol](extra/tut1-3.html)
 
+2. [Tutorial 2](./extra/tutorial2.html)
+
 <!--## Assignments-->
 
 <!--1. [Assignment 1]()-->
