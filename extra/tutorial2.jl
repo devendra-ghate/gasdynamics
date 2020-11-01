@@ -1,5 +1,5 @@
 ### A Pluto.jl notebook ###
-# v0.12.3
+# v0.12.6
 
 using Markdown
 using InteractiveUtils
@@ -54,6 +54,8 @@ md"""
 ### Numerical
 
 I have only picked problems from Rathakrishnan. However, this area is so fertile for problems that you will find equally good problems in any textbook (Zucker or Keith). The main thing you should focus on are the fundamentals and familiarise yourself with using the tables correctly.
+
+Problems from *Gas Dynamics* (2nd edition) by E Rathakrishnan have been given in the section below.
 
 #### Moving normal shock 
 
