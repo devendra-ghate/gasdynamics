@@ -40,7 +40,7 @@ Video | Slides |
 - [Normal shock relations](./extra/normalShock.html) (Original Pluto notebook is [here](./extra/normalShock.jl))
 - [Moving Normal Shock](./extra/movingNormalShock.html) (Original Pluto notebook is [here](./extra/movingNormalShock.jl))
 - [Gas Tables](http://www.tfd.chalmers.se/~nian/courses/compflow/docs/Formulas%20Tables%20and%20Graphs.pdf) Source: Prof. Niklas Andersson, Chalmers University
-- [Gas Tables](https://www.iist.ac.in/sites/default/files/people/IN12177/Gas%20tables_v2.pdf)
+- [Gas Tables](https://www.iist.ac.in/sites/default/files/people/IN12177/Gas%20tables_v2.pdf) Source: Prof. Vinoth, IIST
 
 ## Tutorials
 
