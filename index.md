@@ -34,6 +34,10 @@ Video | Slides |
 [23](https://youtu.be/TQzbr1ti5_4)| [pdf](./lectureSlides/L23.pdf) |
 [24](https://youtu.be/hRakLWE_HfU)| [pdf](./lectureSlides/L24.pdf) |
 [25](https://youtu.be/WKMZJNVPdSk)| [pdf](./lectureSlides/L25.pdf) |
+[26](https://youtu.be/LP-JgeW9VxE)| [pdf](./lectureSlides/L26.pdf) |
+[27](https://youtu.be/bZScnUw3vAg)| [pdf](./lectureSlides/L27.pdf) |
+[28](https://youtu.be/gpvTsyzVigI)| [pdf](./lectureSlides/L28.pdf) |
+[29](https://youtu.be/Fuh1A6yLmyE)| [pdf](./lectureSlides/L29.pdf) |
 
 ## Other Material
 
@@ -52,9 +56,11 @@ Video | Slides |
 
 2. [Tutorial 2](./extra/tutorial2.html)
 
-<!--## Assignments-->
+<!--3. [Tutorial 3](./extra/tutorial3.html)-->
 
-<!--1. [Assignment 1]()-->
+## Quiz
+
+<!--- [Quiz 2 Solution](./extra/quiz2Sol.html)-->
 
 * * *
 This website was created using [Pandoc](https://www.pandoc.org]), [Julia](https://www.julialang.org), [Pluto](https://github.com/fonsp/Pluto.jl) and [pandoc-github.css](https://gist.github.com/dashed/6714393).
