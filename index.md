@@ -37,7 +37,9 @@ Video | Slides |
 [26](https://youtu.be/LP-JgeW9VxE)| [pdf](./lectureSlides/L26.pdf) |
 [27](https://youtu.be/bZScnUw3vAg)| [pdf](./lectureSlides/L27.pdf) |
 [28](https://youtu.be/gpvTsyzVigI)| [pdf](./lectureSlides/L28.pdf) |
-[29](https://youtu.be/Fuh1A6yLmyE)| [pdf](./lectureSlides/L29.pdf) |
+[29](https://youtu.be/Sgs1ZMQN4Es)| [pdf](./lectureSlides/L29.pdf) |
+[30](https://youtu.be/Jfv-GVJScOE)| [pdf](./lectureSlides/L30.pdf) |
+[31](https://youtu.be/prawZcmh_Hw)| [pdf](./lectureSlides/L31.pdf) |
 
 ## Other Material
 
