@@ -58,7 +58,7 @@ Video | Slides |
 
 2. [Tutorial 2](./extra/tutorial2.html)
 
-<!--3. [Tutorial 3](./extra/tutorial3.html)-->
+3. [Tutorial 3](./extra/tutorial3.html)
 
 ## Quiz
 
