@@ -40,6 +40,7 @@ Video | Slides |
 [29](https://youtu.be/Sgs1ZMQN4Es)| [pdf](./lectureSlides/L29.pdf) |
 [30](https://youtu.be/Jfv-GVJScOE)| [pdf](./lectureSlides/L30.pdf) |
 [31](https://youtu.be/prawZcmh_Hw)| [pdf](./lectureSlides/L31.pdf) |
+[32](https://youtu.be/UcQWPJPr10o)| [pdf](./lectureSlides/L32.pdf) |
 
 ## Other Material
 
